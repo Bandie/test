@@ -1,0 +1,6 @@
+[submodule "f1"]
+	path = f1
+	url = git@github.com:Bandie/f1.git
+[submodule "abc"]
+	path = abc
+	url = git@github.com:zvenja/test_test.git
